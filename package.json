@@ -1,8 +1,8 @@
 {
-  "name": "cabin-booking",
+  "name": "Vue-UI",
   "version": "1.0.0",
-  "description": "A Web application for booking the Jones family cabin",
-  "author": "Scozzi <WestonJones87@gmail.com>",
+  "description": "Basic Vue + Semantic-UI Implementation",
+  "author": "",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",

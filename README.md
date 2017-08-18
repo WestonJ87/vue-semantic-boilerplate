@@ -1,6 +1,6 @@
-# cabin-booking
+# Boilerplate Vue + Semantic.JS Example
 
-> A Web application for booking the Jones family cabin
+> A basic Vue.JS (2.3.3) + Semantic-UI (2.2.12) Example.  Generated with VUE CLI
 
 ## Build Setup
 
